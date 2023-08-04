@@ -21,6 +21,7 @@ function submatrizMenor(matrixA: number[][], subMatrixB: number[][]): number {
   return occurrences;
 }
 
+// matriz
 function subMatrizA(
   matrixA: number[][],
   subMatrixB: number[][],
